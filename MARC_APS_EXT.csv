@@ -1,0 +1,4 @@
+﻿! Rows with content here are considered comments,_ACTION_CODE,Source ID,Plant,Penalty Excd. MaxDoS,Is Max Days of Supply Active,Safety Stock Method,Targt Stk Lvl Method,Sfty Stk Meth Determination,Use Period Factor,Period Factor,Per. Factor Time Dep.Stk.Lvl.,PP/DS Horizon,Last Changed On
+_COMMENT,_ACTION_CODE,SOURCE_ID,WERKS,MAXDOS_PEN,MAXDOS_FLG,SAFTYSTOCK_METHOD,TARGET_STOCK_LEVEL_METH,AUTO_DET_SFTYSTK_METH,USE_PERIOD_FACTOR,PERIOD_FACTOR_VALUE,PERIOD_FACTOR_TDS,CONVH,SOURCE_RECENCY
+,,SA_29_01,0001,55,X,,,,X,1,,3,0
+,,SA_29_01,MRPAREA001,65,X,,,,X,1,,4,0
